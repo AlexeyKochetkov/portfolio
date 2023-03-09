@@ -1,6 +1,6 @@
 # Винни-Пух 
 
-![медвед](C:\Users\alexey.kochetkov\Documents\Person\Training\Portfolio\vinni-pukh.jpg)
+![медвед](/vinnipukh.jpg)
 
 ## Адрес проживания
 Сосновый бор
